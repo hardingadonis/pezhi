@@ -9,6 +9,12 @@
 - JDK 17 or above
 - Maven 3+
 
+## Database Diagram:
+
+<a href="https://github.com/hardingadonis/zhi">
+  <img src="imgs/Database Diagram.svg" alt=""/>
+</a>
+
 ## Contributors:
 
 <a href="https://github.com/hardingadonis/pezhi/graphs/contributors">
