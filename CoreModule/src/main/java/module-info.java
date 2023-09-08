@@ -1,0 +1,3 @@
+module core {
+    exports utils;
+}
