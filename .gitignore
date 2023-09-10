@@ -35,3 +35,4 @@ build/
 configs.json
 database.sqlite
 logs/
+bin/
