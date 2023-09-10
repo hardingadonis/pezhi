@@ -1,7 +1,11 @@
 package pezhi;
 
+import utils.ConfigManager;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println(Main.class.getModule());
+        ConfigManager.getInstance().load();
+
+        ConfigManager.getInstance().save();
     }
 }
