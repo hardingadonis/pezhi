@@ -30,3 +30,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### PeZhi ###
+configs.json
+database.sqlite
+logs/
