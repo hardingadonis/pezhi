@@ -6,6 +6,7 @@ module pezhi.core {
     requires org.apache.logging.log4j;
     requires org.xerial.sqlitejdbc;
 
+    exports dao;
     exports model;
     exports utils;
 
