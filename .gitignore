@@ -33,4 +33,5 @@ build/
 
 ### PeZhi ###
 configs.json
+database.sqlite
 logs/
