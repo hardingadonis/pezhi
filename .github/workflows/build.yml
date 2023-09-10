@@ -9,7 +9,7 @@ jobs:
       matrix:
         os: [ubuntu-latest, windows-latest, macos-latest]
 
-    name: 'Build with Maven'
+    name: 'Build with Maven on ${{ matrix.os }}'
     runs-on: ${{ matrix.os }}
 
     steps:
