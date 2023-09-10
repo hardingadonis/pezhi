@@ -4,6 +4,7 @@ module pezhi.core {
     requires com.google.gson;
     requires org.apache.logging.log4j.core;
     requires org.apache.logging.log4j;
+    requires org.xerial.sqlitejdbc;
 
     exports model;
     exports utils;
