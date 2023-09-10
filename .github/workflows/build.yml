@@ -24,4 +24,4 @@ jobs:
           architecture: 'x64'
 
       - name: 'Build project with Maven'
-        run: mvn package
+        run: mvn verify
