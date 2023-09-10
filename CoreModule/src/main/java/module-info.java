@@ -5,6 +5,7 @@ module pezhi.core {
     requires org.apache.logging.log4j.core;
     requires org.apache.logging.log4j;
 
+    exports model;
     exports utils;
 
     opens utils to com.google.gson;
